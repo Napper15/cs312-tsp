@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\traveling-salesman\TSP\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\traveling-salesman\TSP\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\traveling-salesman\TSP\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\traveling-salesman\TSP\WindowsFormsApplication1\obj\Release\TSP.mainform.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\traveling-salesman\TSP\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\traveling-salesman\TSP\WindowsFormsApplication1\obj\Release\TSP.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\traveling-salesman\TSP\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\traveling-salesman\TSP\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\traveling-salesman\TSP\WindowsFormsApplication1\obj\Release\TSP.csprojResolveAssemblyReference.cache
